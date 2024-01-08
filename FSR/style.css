@@ -1,0 +1,90 @@
+h1{
+  font-family: 'Verdana','ALGERIAN' sans-serif;
+}
+
+p{
+
+	font-family: 'Verdana';
+    font-size: 21px;
+    color: white;
+  
+}
+
+body{
+	
+	background-color:black;
+	
+}
+
+#name{
+	
+	width: 100%;
+	background-color:gray;
+	
+}
+
+#test{
+	
+	height: 60%;
+	width: 90%;
+
+}
+
+#name p{
+
+	font-size: 4vmin;
+	display: inline-block;
+	margin-top:1.5%;
+	margin-left:2%;
+
+}
+
+#Tg{
+	
+	color: #DCDCDC;
+    font-size: 21px;
+}
+
+#Telegram{
+	
+	height: 5%;
+	width: 5%;
+	margin-left: 1%;
+	
+}
+
+#Prog{
+	
+	color: darkgray;
+	font-size: 21px;
+	
+}
+
+#FS1{
+	
+	color: gray;
+    font-size: 21px;
+}
+
+#FS0{
+	
+	color: darkgray;
+	font-size: 21px;
+	
+}
+
+#Tname{
+	
+	font-size: 100px;
+	margin-left: 2%;
+	font-family: 'ALGERIAN'
+	
+}
+
+#Tg{
+	
+	color: gray;
+    font-size: 21px;
+}
+
+	
